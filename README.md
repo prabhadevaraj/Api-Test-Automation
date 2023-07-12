@@ -12,7 +12,7 @@
 
 ## Working with Api-Test-Automation
 
-* Clone this project from Git 
+* Clone this project from Git https://github.com/prabhadevaraj/Api-Test-Automation
 * Build your project and ensure the build is success.
 * Refer appsettings.json file to update incase of credentials/url to work
 * Open Test explorer and Run test
