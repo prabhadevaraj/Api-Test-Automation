@@ -1,4 +1,6 @@
-#  Api-Test-Automation Framework
+#  RestSharp Specflow Automation Framework
+
+
 ## Code development
 * The Restsharp based Specflow BDD test framework
 * Page object Model
