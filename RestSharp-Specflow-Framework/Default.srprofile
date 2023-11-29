@@ -9,7 +9,7 @@
   <!--<Environment  testThreadIsolation="SharedAppDomain" framework="Net5.0"/>-->
   <Environment  testThreadIsolation="SharedAppDomain" framework="Netcoreapp3.1"/>
   <TestAssemblyPaths>
-    <TestAssemblyPath>Ngr.Api_Tests.dll</TestAssemblyPath>
+    <TestAssemblyPath>Self.Api_Tests.dll</TestAssemblyPath>
   </TestAssemblyPaths>
   <DeploymentTransformation>
     <Steps>
