@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Ngr.Api_Tests</RootNamespace>
+    <RootNamespace>Self.Api_Tests</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
